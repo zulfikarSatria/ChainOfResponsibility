@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\",
+  "WorkspaceRootPath": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hand.h",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.h",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\Hand.h",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.h",
+              "RelativeToolTip": "Chain of Responsibility\\Hand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T16:52:55.931Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PokerHandChecker.h",
-              "DocumentMoniker": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
               "RelativeDocumentMoniker": "Chain of Responsibility\\PokerHandChecker.h",
-              "ToolTip": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
               "RelativeToolTip": "Chain of Responsibility\\PokerHandChecker.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-07T15:51:02.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameManager.h",
-              "DocumentMoniker": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\GameManager.h",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.h",
               "RelativeDocumentMoniker": "Chain of Responsibility\\GameManager.h",
-              "ToolTip": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\GameManager.h",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.h",
               "RelativeToolTip": "Chain of Responsibility\\GameManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T14:55:56.635Z"
+              "WhenOpened": "2026-04-07T14:55:56.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.cpp",
-              "DocumentMoniker": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp",
               "RelativeDocumentMoniker": "Chain of Responsibility\\GameManager.cpp",
-              "ToolTip": "D:\\Cool Yeah\\Kuliah Semester 4\\Desain Pattern\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp",
               "RelativeToolTip": "Chain of Responsibility\\GameManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T14:09:34.558Z"
+              "WhenOpened": "2026-04-07T14:09:34.558Z",
+              "EditorCaption": ""
             }
           ]
         }

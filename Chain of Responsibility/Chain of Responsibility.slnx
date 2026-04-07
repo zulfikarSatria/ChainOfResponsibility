@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Chain of Responsibility/Chain of Responsibility.vcxproj" />
+  <Project Path="Chain of Responsibility/Chain of Responsibility.vcxproj" Id="ae9e05cb-7e3a-4e59-aa68-08655bb7b299" />
 </Solution>
