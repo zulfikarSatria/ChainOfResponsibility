@@ -1,2 +1,2 @@
 # ChainOfResponsibility
-Desain Pattern kelompok
+Desain Pattern kelompok 13
