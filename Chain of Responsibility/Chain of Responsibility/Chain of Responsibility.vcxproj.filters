@@ -9,61 +9,108 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <Filter Include="Source Files\Game Manager">
+      <UniqueIdentifier>{9ee3ebd5-c031-4842-9282-225e2790ab40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Manager\System">
+      <UniqueIdentifier>{9ad66e77-2e0f-44e1-9efa-7410fbb7ddb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Manager\System\Checker">
+      <UniqueIdentifier>{adea82ee-8d82-4680-abb8-6c59ee629e7e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Manager\System\Checker\Type">
+      <UniqueIdentifier>{8927a5d4-cff2-49d4-9e1d-fca99e67ba93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Manager">
+      <UniqueIdentifier>{0dc6a164-ea8e-471a-99a7-a23e2e6a7952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Manager\System">
+      <UniqueIdentifier>{e1225f68-4e5d-4127-b1b3-f160199ba858}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Manager\System\Checker">
+      <UniqueIdentifier>{235f3932-26f0-47ef-8ba2-5f54e99a07ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Manager\System\Checker\Type">
+      <UniqueIdentifier>{c7bb1af5-e005-4363-a9b6-fd94fcaa9483}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GameManager.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="PokerHandChecker.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Hand.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="HandGenerator.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Game Manager</Filter>
     </ClCompile>
-    <ClCompile Include="HandPlayer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="BlindRule.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="PokerHandChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker</Filter>
     </ClCompile>
     <ClCompile Include="ScoringRule.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
+    <ClCompile Include="HandGenerator.cpp">
+      <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
+    <ClCompile Include="HandPlayer.cpp">
+      <Filter>Source Files\Game Manager\System</Filter>
     </ClCompile>
     <ClCompile Include="RewardRule.cpp">
+      <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
+    <ClCompile Include="BlindRule.cpp">
+      <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FlushChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="FullHouseChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="PairChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoPairChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GameManager.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="PokerHandChecker.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Hand.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="HandGenerator.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Game Manager</Filter>
     </ClInclude>
-    <ClInclude Include="HandPlayer.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="BlindRule.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="PokerHandChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker</Filter>
     </ClInclude>
     <ClInclude Include="ScoringRule.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Game Manager\System</Filter>
+    </ClInclude>
+    <ClInclude Include="HandGenerator.h">
+      <Filter>Header Files\Game Manager\System</Filter>
+    </ClInclude>
+    <ClInclude Include="HandPlayer.h">
+      <Filter>Header Files\Game Manager\System</Filter>
     </ClInclude>
     <ClInclude Include="RewardRule.h">
-      <Filter>Header Files</Filter>
+      <Filter>Header Files\Game Manager\System</Filter>
+    </ClInclude>
+    <ClInclude Include="BlindRule.h">
+      <Filter>Header Files\Game Manager\System</Filter>
+    </ClInclude>
+    <ClInclude Include="FlushChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="FullHouseChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="PairChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoPairChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

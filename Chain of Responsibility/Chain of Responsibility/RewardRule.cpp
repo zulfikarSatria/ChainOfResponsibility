@@ -8,3 +8,4 @@ int RewardRule::earnMoney(bool win, int score)
 		return score;
 	}
 	return 0;
+}
