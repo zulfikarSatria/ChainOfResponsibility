@@ -38,8 +38,7 @@
               "RelativeToolTip": "Chain of Responsibility\\Hand.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T16:52:55.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T16:52:55.931Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Chain of Responsibility\\PokerHandChecker.h",
               "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
               "RelativeToolTip": "Chain of Responsibility\\PokerHandChecker.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-07T15:51:02.171Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Chain of Responsibility\\GameManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T14:55:56.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T14:55:56.635Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Chain of Responsibility\\GameManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T14:09:34.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T14:09:34.558Z"
             }
           ]
         }
