@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\",
+  "WorkspaceRootPath": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\RewardRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\RewardRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\HandGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\RewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\RewardRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\TwoPairChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\TwoPairChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\BlindRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\BlindRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\PokerHandChecker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\BlindRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\BlindRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RewardRule.cpp",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\RewardRule.cpp",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\RewardRule.cpp",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\RewardRule.cpp",
-              "RelativeToolTip": "Chain of Responsibility\\RewardRule.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T17:25:44.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RewardRule.h",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\RewardRule.h",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\RewardRule.h",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\RewardRule.h",
-              "RelativeToolTip": "Chain of Responsibility\\RewardRule.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T17:25:34.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ScoringRule.cpp",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\ScoringRule.cpp",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp",
-              "RelativeToolTip": "Chain of Responsibility\\ScoringRule.cpp",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\main.cpp",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\main.cpp",
+              "ToolTip": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\main.cpp",
+              "RelativeToolTip": "Chain of Responsibility\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T17:24:31.243Z",
+              "WhenOpened": "2026-04-07T21:55:43.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokerHandChecker.h",
+              "DocumentMoniker": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\PokerHandChecker.h",
+              "ToolTip": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\PokerHandChecker.h",
+              "RelativeToolTip": "Chain of Responsibility\\PokerHandChecker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-07T22:33:19.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ScoringRule.h",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h",
+              "DocumentMoniker": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h",
               "RelativeDocumentMoniker": "Chain of Responsibility\\ScoringRule.h",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h",
+              "ToolTip": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h",
               "RelativeToolTip": "Chain of Responsibility\\ScoringRule.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T17:24:06.609Z",
+              "WhenOpened": "2026-04-07T22:33:13.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BlindRule.cpp",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\BlindRule.cpp",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\BlindRule.cpp",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\BlindRule.cpp",
-              "RelativeToolTip": "Chain of Responsibility\\BlindRule.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ScoringRule.cpp",
+              "DocumentMoniker": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\ScoringRule.cpp",
+              "ToolTip": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp",
+              "RelativeToolTip": "Chain of Responsibility\\ScoringRule.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-07T17:23:16.178Z",
+              "WhenOpened": "2026-04-07T22:32:30.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BlindRule.h",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\BlindRule.h",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\BlindRule.h",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\BlindRule.h",
-              "RelativeToolTip": "Chain of Responsibility\\BlindRule.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-07T17:22:55.691Z",
+              "DocumentIndex": 1,
+              "Title": "TwoPairChecker.cpp",
+              "DocumentMoniker": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\TwoPairChecker.cpp",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\TwoPairChecker.cpp",
+              "ToolTip": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\TwoPairChecker.cpp",
+              "RelativeToolTip": "Chain of Responsibility\\TwoPairChecker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T22:30:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HandGenerator.cpp",
+              "DocumentMoniker": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.cpp",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\HandGenerator.cpp",
+              "ToolTip": "G:\\PROJECT FILE\\Github\\Collage Project\\Design Pattern\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.cpp*",
+              "RelativeToolTip": "Chain of Responsibility\\HandGenerator.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-07T22:31:58.321Z",
               "EditorCaption": ""
             }
           ]
