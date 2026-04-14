@@ -35,9 +35,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Hand.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="GameManager.cpp">
       <Filter>Source Files\Game Manager</Filter>
     </ClCompile>
@@ -74,11 +71,35 @@
     <ClCompile Include="TwoPairChecker.cpp">
       <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
     </ClCompile>
+    <ClCompile Include="Hand.cpp">
+      <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreeOfAKindChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="StraightChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="FourOfAKindChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="StraightFlushChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="RoyalFlushChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="FiveOfAKindChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="FlushFiveChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
+    <ClCompile Include="FlushHouseChecker.cpp">
+      <Filter>Source Files\Game Manager\System\Checker\Type</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Hand.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="GameManager.h">
       <Filter>Header Files\Game Manager</Filter>
     </ClInclude>
@@ -111,6 +132,33 @@
     </ClInclude>
     <ClInclude Include="TwoPairChecker.h">
       <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreeOfAKindChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="StraightChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="FourOfAkindChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="StraightFlushChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="FiveOfAKindChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="FlushHouseChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="FlushFiveChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="RoyalFlushChecker.h">
+      <Filter>Header Files\Game Manager\System\Checker\Type</Filter>
+    </ClInclude>
+    <ClInclude Include="Hand.h">
+      <Filter>Header Files\Game Manager\System</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

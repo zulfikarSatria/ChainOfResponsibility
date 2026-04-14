@@ -2,8 +2,16 @@
 #include "ScoringRule.h"
 
 ScoringRule::ScoringRule() {
+	flushFiveChecker.setNext(&flushHouseChecker);
+	flushHouseChecker.setNext(&fiveOfAKindChecker);
+	fiveOfAKindChecker.setNext(&royalFlushChecker);
+	royalFlushChecker.setNext(&straightFlushChecker);
+	straightFlushChecker.setNext(&fourOfAKindChecker);
+	fourOfAKindChecker.setNext(&fullHouseChecker);
 	fullHouseChecker.setNext(&flushChecker);
-	flushChecker.setNext(&twoPairChecker);
+	flushChecker.setNext(&straightChecker);
+	straightChecker.setNext(&threeOfAKindChecker);
+	threeOfAKindChecker.setNext(&twoPairChecker);
 	twoPairChecker.setNext(&pairChecker);
 }
 
@@ -17,9 +25,25 @@ int ScoringRule::scoreHand(const Hand& hand) {
 
 int ScoringRule::convertRankToScore(HandRank rank) {
 	switch (rank) {
+	case HandRank::FLUSH_FIVE:
+		return 65;
+	case HandRank::FLUSH_HOUSE:
+		return 60;
+	case HandRank::FIVE_OF_A_KIND:
+		return 55;
+	case HandRank::ROYAL_FLUSH:
+		return 50;
+	case HandRank::STRAIGHT_FLUSH:
+		return 45;
+	case HandRank::FOUR_OF_A_KIND:
+		return 40;
 	case HandRank::FULL_HOUSE:
-		return 25;
+		return 35;
 	case HandRank::FLUSH:
+		return 30;
+	case HandRank::STRAIGHT:
+		return 25;
+	case HandRank::THREE_OF_A_KIND:
 		return 20;
 	case HandRank::TWO_PAIR:
 		return 15;
