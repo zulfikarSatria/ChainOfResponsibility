@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\ScoringRule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\TwoPairChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\TwoPairChecker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\HandGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\HandGenerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\Hand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\Hand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\ScoringRule.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE9E05CB-7E3A-4E59-AA68-08655BB7B299}|Chain of Responsibility\\Chain of Responsibility.vcxproj|solutionrelative:Chain of Responsibility\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandGenerator.h",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.h",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\HandGenerator.h",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.h",
+              "RelativeToolTip": "Chain of Responsibility\\HandGenerator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-22T02:04:37.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Hand.h",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.h",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\Hand.h",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.h",
+              "RelativeToolTip": "Chain of Responsibility\\Hand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-22T02:04:16.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hand.cpp",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.cpp",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\Hand.cpp",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Hand.cpp",
+              "RelativeToolTip": "Chain of Responsibility\\Hand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-22T02:04:10.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card.h",
+              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Card.h",
+              "RelativeDocumentMoniker": "Chain of Responsibility\\Card.h",
+              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\Card.h",
+              "RelativeToolTip": "Chain of Responsibility\\Card.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-22T02:03:26.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\main.cpp",
               "RelativeDocumentMoniker": "Chain of Responsibility\\main.cpp",
@@ -46,25 +102,11 @@
               "RelativeToolTip": "Chain of Responsibility\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-14T17:07:35.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T17:07:35.018Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TwoPairChecker.cpp",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\TwoPairChecker.cpp",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\TwoPairChecker.cpp",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\TwoPairChecker.cpp",
-              "RelativeToolTip": "Chain of Responsibility\\TwoPairChecker.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-14T17:02:35.169Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\GameManager.cpp",
               "RelativeDocumentMoniker": "Chain of Responsibility\\GameManager.cpp",
@@ -77,39 +119,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScoringRule.h",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\ScoringRule.h",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.h",
-              "RelativeToolTip": "Chain of Responsibility\\ScoringRule.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-14T16:47:53.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScoringRule.cpp",
-              "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp",
-              "RelativeDocumentMoniker": "Chain of Responsibility\\ScoringRule.cpp",
-              "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\ScoringRule.cpp",
-              "RelativeToolTip": "Chain of Responsibility\\ScoringRule.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-04-14T16:43:49.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HandGenerator.cpp",
               "DocumentMoniker": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.cpp",
               "RelativeDocumentMoniker": "Chain of Responsibility\\HandGenerator.cpp",
               "ToolTip": "D:\\Cool Yeah\\ChainOfResponsibility\\Chain of Responsibility\\Chain of Responsibility\\HandGenerator.cpp",
               "RelativeToolTip": "Chain of Responsibility\\HandGenerator.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-07T22:31:58.321Z",
               "EditorCaption": ""
