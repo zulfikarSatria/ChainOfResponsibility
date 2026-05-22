@@ -1,17 +1,3 @@
-#include <iostream>
-#include "TwoPairChecker.h"
-
-// dummy helper
-bool isTwoPair(const Hand& hand) {
-	return hand.value == 3;
-}
-HandRank TwoPairChecker::check(const Hand& hand) {
-	if (isTwoPair(hand)) {
-		std::cout << "Detected TWO PAIR\n";
-		return HandRank::TWO_PAIR;
-	}
-
-	if (nextChecker)
-		return nextChecker->check(hand);
-	return HandRank::HIGH_CARD;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a72ac38f40d6048071e5ebcf8eb3951b31485adf9c8fac35b5ff0acd6fbccf
+size 372

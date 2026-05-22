@@ -1,13 +1,3 @@
-#include <iostream>
-#include <cstdlib> // Required for rand() and srand()
-#include <ctime>   // Required for time()
-#include "HandGenerator.h"
-
-Hand HandGenerator::generateHand() {
-	std::cout << "Generating cards for player...\n";
-	Hand hand;
-	hand.value = (std::rand() % 13) + 1;
-		// Generate a random value from 1 to 13
-		// rand() % 13 produces 0-12, so adding 1 results in 1-13
-	return hand;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7669d7d712c53246358c703d17990e95e5c06ca9a6c325823f375a4b15221130
+size 410

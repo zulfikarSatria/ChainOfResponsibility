@@ -1,17 +1,3 @@
-#include <iostream>
-#include "FourOfAKindChecker.h"
-
-// dummy helper
-bool isFourOfAKind(const Hand& hand) {
-	return hand.value == 8;
-}
-HandRank FourOfAKindChecker::check(const Hand& hand) {
-	if (isFourOfAKind(hand)) {
-		std::cout << "Detected FOUR OF A KIND\n";
-		return HandRank::FOUR_OF_A_KIND;
-	}
-
-	if (nextChecker)
-		return nextChecker->check(hand);
-	return HandRank::HIGH_CARD;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff3ece737ca914b917e7d8c68e4302382655ff1e74a8ee6b67bcf9361d9ba1a8
+size 400

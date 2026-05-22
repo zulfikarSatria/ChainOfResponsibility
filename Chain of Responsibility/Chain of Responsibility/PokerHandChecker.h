@@ -1,25 +1,3 @@
-#pragma once
-#include "Hand.h"
-enum class HandRank {
-	HIGH_CARD,
-	PAIR,
-	TWO_PAIR,
-	THREE_OF_A_KIND,
-	STRAIGHT,
-	FLUSH,
-	FULL_HOUSE,
-	FOUR_OF_A_KIND,
-	STRAIGHT_FLUSH,
-	ROYAL_FLUSH,
-	FIVE_OF_A_KIND,
-	FLUSH_HOUSE,
-	FLUSH_FIVE
-};
-class PokerHandChecker {
-public:
-	virtual HandRank check(const Hand& hand) = 0;
-	void setNext(PokerHandChecker* next);
-
-protected:
-	PokerHandChecker* nextChecker = nullptr;
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd848c2c394df3974a8a045db81dce769c45191f85e80079353c2fad32f6fa4
+size 426

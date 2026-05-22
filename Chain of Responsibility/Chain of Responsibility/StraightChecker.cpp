@@ -1,17 +1,3 @@
-#include <iostream>
-#include "StraightChecker.h"
-
-// dummy helper
-bool isStraight(const Hand& hand) {
-	return hand.value == 5;
-}
-HandRank StraightChecker::check(const Hand& hand) {
-	if (isStraight(hand)) {
-		std::cout << "Detected STRAIGHT\n";
-		return HandRank::STRAIGHT;
-	}
-
-	if (nextChecker)
-		return nextChecker->check(hand);
-	return HandRank::HIGH_CARD;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3612e06bc76497cb0fd29a78118955b95ef428e276c064a2680cb2b518f80b2
+size 376

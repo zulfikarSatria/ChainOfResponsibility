@@ -1,14 +1,3 @@
-#include <iostream>
-#include <cstdlib> // Required for srand
-#include <ctime>   // Required for time
-#include "GameManager.h"
-int main()
-{
-	// Seed the random number generator with the current time
-	// This ensures a different sequence of numbers every time you run the app
-	std::srand(static_cast<unsigned int>(std::time(nullptr)));
-
-	GameManager gameManager;
-	gameManager.runSession();
-	return 0;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:be0eaf66796e7669b9286f2cfab78d2325c4334f395b39623caeca872a048f54
+size 413

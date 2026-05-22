@@ -1,14 +1,3 @@
-#include <iostream>
-#include "GameManager.h"
-
-void GameManager::runSession() {
-	std::cout << "=== Run Started ===\n";
-	Hand hand = handGenerator.generateHand();
-	handPlayer.playHand();
-	int score = scoringRule.scoreHand(hand);
-	bool win = blindRule.checkBlind(score);
-	int reward = rewardRule.earnMoney(win, score);
-	std::cout << "Money gained: " << reward << "\n";
-
-	std::cout << "=== Run Ended ===\n";
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0ac2aa8c311bad37e8c536a3a3c24933635a43788e32f38ade692eb61f4bc39
+size 418

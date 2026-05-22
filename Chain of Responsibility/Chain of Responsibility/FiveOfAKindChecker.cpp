@@ -1,17 +1,3 @@
-#include <iostream>
-#include "FiveOfAKindChecker.h"
-
-// dummy helper
-bool isFiveOfAKind(const Hand& hand) {
-	return hand.value == 11;
-}
-HandRank FiveOfAKindChecker::check(const Hand& hand) {
-	if (isFiveOfAKind(hand)) {
-		std::cout << "Detected FIVE OF A KIND\n";
-		return HandRank::FIVE_OF_A_KIND;
-	}
-
-	if (nextChecker)
-		return nextChecker->check(hand);
-	return HandRank::HIGH_CARD;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:af2f3fbbe3d837be11df03da6f5d3308c2d943f68794d2e4d0f62cd687825471
+size 401

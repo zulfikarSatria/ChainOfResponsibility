@@ -1,17 +1,3 @@
-#include <iostream>
-#include "StraightFlushChecker.h"
-
-// dummy helper
-bool isStraightFlush(const Hand& hand) {
-	return hand.value == 9;
-}
-HandRank StraightFlushChecker::check(const Hand& hand) {
-	if (isStraightFlush(hand)) {
-		std::cout << "Detected STRAIGHT FLUSH\n";
-		return HandRank::STRAIGHT_FLUSH;
-	}
-
-	if (nextChecker)
-		return nextChecker->check(hand);
-	return HandRank::HIGH_CARD;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d72499b7e4d9e02516f2bb7aadc3624d696dff562bd757bfd058dff89a63af2
+size 408

@@ -1,17 +1,3 @@
-#include <iostream>
-#include "FlushHouseChecker.h"
-
-// dummy helper
-bool isFlushHouse(const Hand& hand) {
-	return hand.value == 12;
-}
-HandRank FlushHouseChecker::check(const Hand& hand) {
-	if (isFlushHouse(hand)) {
-		std::cout << "Detected FLUSH HOUSE\n";
-		return HandRank::FLUSH_HOUSE;
-	}
-
-	if (nextChecker)
-		return nextChecker->check(hand);
-	return HandRank::HIGH_CARD;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:96f870027008ffac5d95cd7c44f596fc55d715d2a55582e4089c67be36d2e876
+size 391
