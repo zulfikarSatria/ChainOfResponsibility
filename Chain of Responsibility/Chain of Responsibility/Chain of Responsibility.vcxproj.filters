@@ -101,6 +101,9 @@
     <ClCompile Include="Card.cpp">
       <Filter>Source Files\Game Manager\System</Filter>
     </ClCompile>
+    <ClCompile Include="ChosenHand.cpp">
+      <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameManager.h">
@@ -164,6 +167,9 @@
       <Filter>Header Files\Game Manager\System</Filter>
     </ClInclude>
     <ClInclude Include="Card.h">
+      <Filter>Header Files\Game Manager\System</Filter>
+    </ClInclude>
+    <ClInclude Include="ChosenHand.h">
       <Filter>Header Files\Game Manager\System</Filter>
     </ClInclude>
   </ItemGroup>

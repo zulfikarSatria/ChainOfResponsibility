@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="BlindRule.cpp" />
     <ClCompile Include="Card.cpp" />
+    <ClCompile Include="ChosenHand.cpp" />
     <ClCompile Include="FiveOfAKindChecker.cpp" />
     <ClCompile Include="FlushChecker.cpp" />
     <ClCompile Include="FlushFiveChecker.cpp" />
@@ -153,6 +154,7 @@
   <ItemGroup>
     <ClInclude Include="BlindRule.h" />
     <ClInclude Include="Card.h" />
+    <ClInclude Include="ChosenHand.h" />
     <ClInclude Include="FiveOfAKindChecker.h" />
     <ClInclude Include="FlushChecker.h" />
     <ClInclude Include="FlushFiveChecker.h" />
