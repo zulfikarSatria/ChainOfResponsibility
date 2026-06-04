@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BlindProgression.cpp" />
     <ClCompile Include="BlindRule.cpp" />
     <ClCompile Include="Card.cpp" />
+    <ClCompile Include="CardSelector.cpp" />
     <ClCompile Include="ChosenHand.cpp" />
     <ClCompile Include="FiveOfAKindChecker.cpp" />
     <ClCompile Include="FlushChecker.cpp" />
@@ -152,8 +154,11 @@
     <ClCompile Include="TwoPairChecker.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Blind.h" />
+    <ClInclude Include="BlindProgression.h" />
     <ClInclude Include="BlindRule.h" />
     <ClInclude Include="Card.h" />
+    <ClInclude Include="CardSelector.h" />
     <ClInclude Include="ChosenHand.h" />
     <ClInclude Include="FiveOfAKindChecker.h" />
     <ClInclude Include="FlushChecker.h" />
@@ -166,6 +171,7 @@
     <ClInclude Include="HandGenerator.h" />
     <ClInclude Include="HandPlayer.h" />
     <ClInclude Include="PairChecker.h" />
+    <ClInclude Include="PlayedHand.h" />
     <ClInclude Include="PokerHandChecker.h" />
     <ClInclude Include="RewardRule.h" />
     <ClInclude Include="RoyalFlushChecker.h" />

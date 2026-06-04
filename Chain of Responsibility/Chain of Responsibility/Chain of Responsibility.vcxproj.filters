@@ -35,14 +35,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GameManager.cpp">
-      <Filter>Source Files\Game Manager</Filter>
-    </ClCompile>
     <ClCompile Include="PokerHandChecker.cpp">
       <Filter>Source Files\Game Manager\System\Checker</Filter>
-    </ClCompile>
-    <ClCompile Include="ScoringRule.cpp">
-      <Filter>Source Files\Game Manager\System</Filter>
     </ClCompile>
     <ClCompile Include="HandGenerator.cpp">
       <Filter>Source Files\Game Manager\System</Filter>
@@ -103,6 +97,18 @@
     </ClCompile>
     <ClCompile Include="ChosenHand.cpp">
       <Filter>Source Files\Game Manager\System</Filter>
+    </ClCompile>
+    <ClCompile Include="BlindProgression.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CardSelector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoringRule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -171,6 +177,18 @@
     </ClInclude>
     <ClInclude Include="ChosenHand.h">
       <Filter>Header Files\Game Manager\System</Filter>
+    </ClInclude>
+    <ClInclude Include="Blind.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlindProgression.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayedHand.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CardSelector.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
